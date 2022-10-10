@@ -1,12 +1,18 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: 如何思考
+title: 如何思考
 authors:
-  name: Gao Wei
+  name: 蓝狐
   title: Docusaurus Core Team
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 tags: [hola, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+   人类的思维充满着各种各样的捷径，每一条捷径都是一把双刃剑。一方面，它降低了大脑的认知复杂性（笼统的看一个问题要比细致的分析简单得多），有助于迅速做出绝大部分时候都正确的判断；但另一方面，它也常常导致人们把大部分情况下成立的法则当成了放之四海而皆准的。可以说，有多少捷径，就有多少条谬误。 
+   
+   人类的情绪也在很大程度上影响着人的思考。比如，如果你憎恶一个人，你往往就会反对他的所有立场。反之亦成立。 
+   
+   人类大脑经过长时间的进化，先天就具备一些特定的“思维定势”，以使得人类能够在面对进化过程中经常出现的适应性问题时能够不假思索的做出迅速的反应。然而，在现代社会，这类思维定势已经不适应了。 
+   
+   人类不可避免的受着各种各样的偏见的影响，这些偏见有些是有一定适应价值的“思维定势”（如事后聪明式偏见），而有些则是大脑的认知机制的“缺陷”。 

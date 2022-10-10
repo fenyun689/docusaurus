@@ -1,25 +1,12 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: 欢迎大家
+title: 欢迎大家
+authors: [blue, tree]
+tags: [健康, 生活, 成长]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[Anrs](https://www.anrs.net) 是用[Docusaurus](https://docusaurus.io/)做的。 使用他主要是简单、方便、不用服务器。
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Docusaurus简单的通过添加Markdown文件就可以实现功能。
 
-Regular blog authors can be added to `authors.yml`.
-
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+开始我新的Blog生活。为什么是新的呢？因为老的都失败了。

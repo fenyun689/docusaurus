@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Helle One',
-  tagline: 'Dinosaurs are cool',
+  title: '大家好！',
+  tagline: '酷我！',
   url: 'https://www.anrs.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -57,19 +57,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '安瑞思',
         logo: {
-          alt: 'My Site Logo',
+          alt: '成长记录',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            position: 'right',
+            label: '书',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '博客', position: 'right'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -81,7 +81,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '学习',
             items: [
               {
                 label: 'Tutorial',
@@ -90,7 +90,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: '团队',
             items: [
               {
                 label: 'Stack Overflow',
@@ -103,11 +103,11 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
-              },
-            ],
+              }]
+
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'Blog',
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Anrs, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
